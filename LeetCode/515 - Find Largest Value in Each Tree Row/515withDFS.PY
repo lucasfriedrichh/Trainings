@@ -5,7 +5,7 @@ class TreeNode:
         self.right = right
 
 class Solution:
-  def largestValues(self, root:[TreeNode]) -> List[int]:
+  def largestValues(self, root:[TreeNode]) -> list[int]:
     ans = []
 
     def dfs(root: [TreeNode], depth: int) -> None:
