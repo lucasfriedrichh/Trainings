@@ -3,6 +3,7 @@
         "chrono": "c",
         "functional": "c",
         "random": "c",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "regex": "cpp"
     }
 }
