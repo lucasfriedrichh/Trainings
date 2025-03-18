@@ -2,6 +2,7 @@
 using namespace std; 
 static const int MAXN=600,MAXM=600;
 static int mat[MAXN][MAXM],RightPos[MAXN][MAXM],chainArr[MAXN],minC2[MAXN];
+
 int main(){
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
